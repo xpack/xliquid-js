@@ -1,6 +1,6 @@
 {
   "name": "xliquid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Expand a liquid template",
   "main": "./index.js",
   "directories": {
