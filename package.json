@@ -9,7 +9,7 @@
     "test": "./test"
   },
   "bin": {
-    "xsvd": "./bin/xsvd.js"
+    "xliquid": "./bin/xliquid.js"
   },
   "scripts": {
     "prepublishOnly": "standard && npm run test-tap -s",

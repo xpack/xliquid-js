@@ -5,3 +5,5 @@
 [![license](https://img.shields.io/github/license/xpack/xliquid-js.svg)](https://github.com/xpack/xliquid-js/blob/xpack/LICENSE) 
 [![Standard](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com/)
 [![Travis](https://img.shields.io/travis/xpack/xliquid-js.svg?label=linux)](https://travis-ci.org/xpack/xliquid-js)
+[![AppVeyor](https://ci.appveyor.com/api/projects/status/fvnpycsnkjoy6m4c?svg=true)](https://ci.appveyor.com/project/ilg-ul/xliquid-js)
+
