@@ -7,3 +7,6 @@
 [![Travis](https://img.shields.io/travis/xpack/xliquid-js.svg?label=linux)](https://travis-ci.org/xpack/xliquid-js)
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/fvnpycsnkjoy6m4c?svg=true)](https://ci.appveyor.com/project/ilg-ul/xliquid-js)
 
+## License
+
+The original content is released under the [MIT License](https://opensource.org/licenses/MIT), with all rights reserved to [Liviu Ionescu](https://github.com/ilg-ul).
